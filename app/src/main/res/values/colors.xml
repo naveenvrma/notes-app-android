@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0495F6</color>
+    <color name="colorPrimaryDark">#057CCC</color>
+    <color name="colorAccent">#0495F6</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="dark_grey_color">#636363</color>
+    <color name="light_grey_color">#D1D0D0</color>
+
+    <!--search liveo-->
+    <color name="search_liveo_icon">#0495F6</color>
+    <color name="search_liveo_text_hint">#5BC9FC</color>
+    <color name="search_liveo_primary_dark">#0495F6</color>
+    <color name="toolbar_liveo_shadow_end_color">#44333333</color>
+    <!--search liveo-->
+
+    <color name="transparent_color">#00FFFFFF</color>
+    <color name="orange_black">#F15A29</color>
+    <color name="orange_light">#F58421</color>
+    <color name="black_color">#000000</color>
+    <color name="white_color">#FFFFFFFF</color>
+    <color name="purple_dark">#7A0CF8</color>
+    <color name="purple_light">#9E4FF8</color>
+    <color name="blue_dark">#0C33F8</color>
+    <color name="blue_light">#4865F8</color>
+    <color name="green_light">#58FA52</color>
+    <color name="yellow_dark">#F8E00C</color>
+    <color name="yellow_light">#F6E653</color>
+    <color name="red_dark">#F80C0C</color>
+    <color name="red_light">#FA5151</color>
+    <color name="red_button">#FA2156</color>
+    <color name="grey_dark">#3A4155</color>
+    <color name="grey_light">#888787</color>
+    <color name="grey_image">#99B8B6B6</color>
+    <color name="grey_button">#C5C3C3</color>
+    <color name="grey_white">#ECE8E8</color>
+    <color name="green_dark">#1DA06A</color>
+    <color name="blue_white">#F6FCFD</color>
+</resources>
